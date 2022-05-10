@@ -1,1 +1,2 @@
 “this is another file file3.txt”
+this is for bug fix
